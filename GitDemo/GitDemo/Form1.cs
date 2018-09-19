@@ -16,7 +16,6 @@ namespace GitDemo
         {
             InitializeComponent();
             this.BackColor = Color.AliceBlue;
-            this.Text = "Git Demo";
         }
     }
 }
