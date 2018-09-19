@@ -15,6 +15,7 @@ namespace GitDemo
         public Form1()
         {
             InitializeComponent();
+            this.BackColor = Color.Beige;
         }
     }
 }
